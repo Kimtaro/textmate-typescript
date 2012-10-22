@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fgbssren@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Kristoffer Andersen</string>
+	<key>description</key>
+	<string></string>
+	<key>name</key>
+	<string>TypeScript</string>
+	<key>ordering</key>
+	<array>
+		<string>EDB434EB-38B9-445C-B6E9-989C7C2610E4</string>
+		<string>FE19C8AB-AC8A-43E8-A3DB-A14EC411A4CE</string>
+	</array>
+	<key>uuid</key>
+	<string>0C3BE7EB-A756-4CAF-A4F0-CF2C3C474C8A</string>
+</dict>
+</plist>
