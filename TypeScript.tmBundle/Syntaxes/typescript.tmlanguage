@@ -38,7 +38,7 @@
 			<key>comment</key>
 			<string>Match variable type keywords</string>
 			<key>match</key>
-			<string>\b(string|bool|number)\b</string>
+			<string>\b(string|bool|number|let|const)\b</string>
 			<key>name</key>
 			<string>storage.type.variable.ts</string>
 		</dict>
@@ -62,7 +62,7 @@
 			<key>comment</key>
 			<string>Match stuff like: constructor</string>
 			<key>match</key>
-			<string>\b(constructor|declare|interface|as|AS)\b</string>
+			<string>\b(constructor|declare|interface|as|AS|async|await)\b</string>
 			<key>name</key>
 			<string>keyword.operator.ts</string>
 		</dict>
