@@ -12,4 +12,4 @@ Get Started
 Now TextMate should ask you to install the bundle.
 
 ###Credits
-Thanks to [eranation](http://github.com/eranation) for the language gramma file.
+Thanks to [eranation](http://github.com/eranation) for the language grammar file.
